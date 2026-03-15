@@ -1,0 +1,14 @@
+[
+  "tests/test_phase1.py::TestExtractVideoId::test_empty_string",
+  "tests/test_phase1.py::TestExtractVideoId::test_invalid_url",
+  "tests/test_phase1.py::TestExtractVideoId::test_music_url",
+  "tests/test_phase1.py::TestExtractVideoId::test_no_protocol",
+  "tests/test_phase1.py::TestExtractVideoId::test_short_url",
+  "tests/test_phase1.py::TestExtractVideoId::test_shorts_url",
+  "tests/test_phase1.py::TestExtractVideoId::test_standard_url",
+  "tests/test_phase1.py::TestExtractVideoId::test_with_extra_params",
+  "tests/test_phase1.py::TestSchemas::test_enrich_request",
+  "tests/test_phase1.py::TestSchemas::test_enriched_track_full",
+  "tests/test_phase1.py::TestSchemas::test_genre_context",
+  "tests/test_phase1.py::TestSchemas::test_youtube_metadata_minimal"
+]
