@@ -1,4 +1,4 @@
-# SonicScout
+# RAgvisor
 
 AI-powered electronic music discovery feed. Paste a YouTube link, get rich context about the genre, artist, and scene.
 
